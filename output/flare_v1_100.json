@@ -1,0 +1,569 @@
+{
+ "name": "chemical", 
+ "children": [
+  {
+   "name": "reaction", 
+   "children": []
+  }, 
+  {
+   "name": "chem", 
+   "children": []
+  }, 
+  {
+   "name": "figure", 
+   "children": [
+    {
+     "name": "information"
+    }, 
+    {
+     "name": "12"
+    }, 
+    {
+     "name": "based"
+    }, 
+    {
+     "name": "cancer"
+    }, 
+    {
+     "name": "data"
+    }, 
+    {
+     "name": "study"
+    }, 
+    {
+     "name": "time"
+    }, 
+    {
+     "name": "table"
+    }, 
+    {
+     "name": "results"
+    }, 
+    {
+     "name": "analysis"
+    }, 
+    {
+     "name": "al"
+    }, 
+    {
+     "name": "patients"
+    }, 
+    {
+     "name": "used"
+    }, 
+    {
+     "name": "health"
+    }, 
+    {
+     "name": "participants"
+    }, 
+    {
+     "name": "et"
+    }, 
+    {
+     "name": "research"
+    }, 
+    {
+     "name": "studies"
+    }, 
+    {
+     "name": "medical"
+    }, 
+    {
+     "name": "care"
+    }
+   ]
+  }, 
+  {
+   "name": "structure", 
+   "children": [
+    {
+     "name": "information"
+    }, 
+    {
+     "name": "12"
+    }, 
+    {
+     "name": "based"
+    }, 
+    {
+     "name": "cancer"
+    }, 
+    {
+     "name": "data"
+    }, 
+    {
+     "name": "study"
+    }, 
+    {
+     "name": "time"
+    }, 
+    {
+     "name": "table"
+    }, 
+    {
+     "name": "results"
+    }, 
+    {
+     "name": "analysis"
+    }, 
+    {
+     "name": "al"
+    }, 
+    {
+     "name": "patients"
+    }, 
+    {
+     "name": "used"
+    }, 
+    {
+     "name": "health"
+    }, 
+    {
+     "name": "participants"
+    }, 
+    {
+     "name": "et"
+    }, 
+    {
+     "name": "research"
+    }, 
+    {
+     "name": "studies"
+    }, 
+    {
+     "name": "medical"
+    }, 
+    {
+     "name": "care"
+    }
+   ]
+  }, 
+  {
+   "name": "binding", 
+   "children": []
+  }, 
+  {
+   "name": "cells", 
+   "children": [
+    {
+     "name": "node"
+    }, 
+    {
+     "name": "surg"
+    }, 
+    {
+     "name": "12"
+    }, 
+    {
+     "name": "group"
+    }, 
+    {
+     "name": "risk"
+    }, 
+    {
+     "name": "cancer"
+    }, 
+    {
+     "name": "resection"
+    }, 
+    {
+     "name": "study"
+    }, 
+    {
+     "name": "liver"
+    }, 
+    {
+     "name": "disease"
+    }, 
+    {
+     "name": "tumor"
+    }, 
+    {
+     "name": "surgical"
+    }, 
+    {
+     "name": "clinical"
+    }, 
+    {
+     "name": "performed"
+    }, 
+    {
+     "name": "survival"
+    }, 
+    {
+     "name": "lymph"
+    }, 
+    {
+     "name": "patient"
+    }, 
+    {
+     "name": "surgery"
+    }, 
+    {
+     "name": "patients"
+    }, 
+    {
+     "name": "treatment"
+    }
+   ]
+  }, 
+  {
+   "name": "cell", 
+   "children": [
+    {
+     "name": "node"
+    }, 
+    {
+     "name": "surg"
+    }, 
+    {
+     "name": "12"
+    }, 
+    {
+     "name": "group"
+    }, 
+    {
+     "name": "risk"
+    }, 
+    {
+     "name": "cancer"
+    }, 
+    {
+     "name": "resection"
+    }, 
+    {
+     "name": "study"
+    }, 
+    {
+     "name": "liver"
+    }, 
+    {
+     "name": "disease"
+    }, 
+    {
+     "name": "tumor"
+    }, 
+    {
+     "name": "surgical"
+    }, 
+    {
+     "name": "clinical"
+    }, 
+    {
+     "name": "performed"
+    }, 
+    {
+     "name": "survival"
+    }, 
+    {
+     "name": "lymph"
+    }, 
+    {
+     "name": "patient"
+    }, 
+    {
+     "name": "surgery"
+    }, 
+    {
+     "name": "patients"
+    }, 
+    {
+     "name": "treatment"
+    }
+   ]
+  }, 
+  {
+   "name": "proteins", 
+   "children": []
+  }, 
+  {
+   "name": "high", 
+   "children": [
+    {
+     "name": "information"
+    }, 
+    {
+     "name": "12"
+    }, 
+    {
+     "name": "based"
+    }, 
+    {
+     "name": "cancer"
+    }, 
+    {
+     "name": "data"
+    }, 
+    {
+     "name": "study"
+    }, 
+    {
+     "name": "time"
+    }, 
+    {
+     "name": "table"
+    }, 
+    {
+     "name": "results"
+    }, 
+    {
+     "name": "analysis"
+    }, 
+    {
+     "name": "al"
+    }, 
+    {
+     "name": "patients"
+    }, 
+    {
+     "name": "used"
+    }, 
+    {
+     "name": "health"
+    }, 
+    {
+     "name": "participants"
+    }, 
+    {
+     "name": "et"
+    }, 
+    {
+     "name": "research"
+    }, 
+    {
+     "name": "studies"
+    }, 
+    {
+     "name": "medical"
+    }, 
+    {
+     "name": "care"
+    }
+   ]
+  }, 
+  {
+   "name": "state", 
+   "children": [
+    {
+     "name": "information"
+    }, 
+    {
+     "name": "12"
+    }, 
+    {
+     "name": "based"
+    }, 
+    {
+     "name": "cancer"
+    }, 
+    {
+     "name": "data"
+    }, 
+    {
+     "name": "study"
+    }, 
+    {
+     "name": "time"
+    }, 
+    {
+     "name": "table"
+    }, 
+    {
+     "name": "results"
+    }, 
+    {
+     "name": "analysis"
+    }, 
+    {
+     "name": "al"
+    }, 
+    {
+     "name": "patients"
+    }, 
+    {
+     "name": "used"
+    }, 
+    {
+     "name": "health"
+    }, 
+    {
+     "name": "participants"
+    }, 
+    {
+     "name": "et"
+    }, 
+    {
+     "name": "research"
+    }, 
+    {
+     "name": "studies"
+    }, 
+    {
+     "name": "medical"
+    }, 
+    {
+     "name": "care"
+    }
+   ]
+  }, 
+  {
+   "name": "formation", 
+   "children": []
+  }, 
+  {
+   "name": "fig", 
+   "children": [
+    {
+     "name": "node"
+    }, 
+    {
+     "name": "surg"
+    }, 
+    {
+     "name": "12"
+    }, 
+    {
+     "name": "group"
+    }, 
+    {
+     "name": "risk"
+    }, 
+    {
+     "name": "cancer"
+    }, 
+    {
+     "name": "resection"
+    }, 
+    {
+     "name": "study"
+    }, 
+    {
+     "name": "liver"
+    }, 
+    {
+     "name": "disease"
+    }, 
+    {
+     "name": "tumor"
+    }, 
+    {
+     "name": "surgical"
+    }, 
+    {
+     "name": "clinical"
+    }, 
+    {
+     "name": "performed"
+    }, 
+    {
+     "name": "survival"
+    }, 
+    {
+     "name": "lymph"
+    }, 
+    {
+     "name": "patient"
+    }, 
+    {
+     "name": "surgery"
+    }, 
+    {
+     "name": "patients"
+    }, 
+    {
+     "name": "treatment"
+    }
+   ]
+  }, 
+  {
+   "name": "molecules", 
+   "children": []
+  }, 
+  {
+   "name": "molecular", 
+   "children": []
+  }, 
+  {
+   "name": "protein", 
+   "children": []
+  }, 
+  {
+   "name": "chemistry", 
+   "children": []
+  }, 
+  {
+   "name": "model", 
+   "children": [
+    {
+     "name": "information"
+    }, 
+    {
+     "name": "12"
+    }, 
+    {
+     "name": "based"
+    }, 
+    {
+     "name": "cancer"
+    }, 
+    {
+     "name": "data"
+    }, 
+    {
+     "name": "study"
+    }, 
+    {
+     "name": "time"
+    }, 
+    {
+     "name": "table"
+    }, 
+    {
+     "name": "results"
+    }, 
+    {
+     "name": "analysis"
+    }, 
+    {
+     "name": "al"
+    }, 
+    {
+     "name": "patients"
+    }, 
+    {
+     "name": "used"
+    }, 
+    {
+     "name": "health"
+    }, 
+    {
+     "name": "participants"
+    }, 
+    {
+     "name": "et"
+    }, 
+    {
+     "name": "research"
+    }, 
+    {
+     "name": "studies"
+    }, 
+    {
+     "name": "medical"
+    }, 
+    {
+     "name": "care"
+    }
+   ]
+  }, 
+  {
+   "name": "cu", 
+   "children": []
+  }, 
+  {
+   "name": "synthesis", 
+   "children": []
+  }
+ ]
+}

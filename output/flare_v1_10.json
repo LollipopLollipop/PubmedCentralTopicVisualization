@@ -1,0 +1,618 @@
+{
+ "name": "chemical", 
+ "children": [
+  {
+   "name": "reaction", 
+   "children": []
+  }, 
+  {
+   "name": "used", 
+   "children": [
+    {
+     "name": "11"
+    }, 
+    {
+     "name": "surg"
+    }, 
+    {
+     "name": "12"
+    }, 
+    {
+     "name": "patient"
+    }, 
+    {
+     "name": "cancer"
+    }, 
+    {
+     "name": "al"
+    }, 
+    {
+     "name": "study"
+    }, 
+    {
+     "name": "disease"
+    }, 
+    {
+     "name": "analysis"
+    }, 
+    {
+     "name": "results"
+    }, 
+    {
+     "name": "tumor"
+    }, 
+    {
+     "name": "surgical"
+    }, 
+    {
+     "name": "clinical"
+    }, 
+    {
+     "name": "treatment"
+    }, 
+    {
+     "name": "table"
+    }, 
+    {
+     "name": "surgery"
+    }, 
+    {
+     "name": "data"
+    }, 
+    {
+     "name": "patients"
+    }, 
+    {
+     "name": "group"
+    }, 
+    {
+     "name": "breast"
+    }
+   ]
+  }, 
+  {
+   "name": "based", 
+   "children": [
+    {
+     "name": "11"
+    }, 
+    {
+     "name": "surg"
+    }, 
+    {
+     "name": "12"
+    }, 
+    {
+     "name": "patient"
+    }, 
+    {
+     "name": "cancer"
+    }, 
+    {
+     "name": "al"
+    }, 
+    {
+     "name": "study"
+    }, 
+    {
+     "name": "disease"
+    }, 
+    {
+     "name": "analysis"
+    }, 
+    {
+     "name": "results"
+    }, 
+    {
+     "name": "tumor"
+    }, 
+    {
+     "name": "surgical"
+    }, 
+    {
+     "name": "clinical"
+    }, 
+    {
+     "name": "treatment"
+    }, 
+    {
+     "name": "table"
+    }, 
+    {
+     "name": "surgery"
+    }, 
+    {
+     "name": "data"
+    }, 
+    {
+     "name": "patients"
+    }, 
+    {
+     "name": "group"
+    }, 
+    {
+     "name": "breast"
+    }
+   ]
+  }, 
+  {
+   "name": "figure", 
+   "children": [
+    {
+     "name": "11"
+    }, 
+    {
+     "name": "surg"
+    }, 
+    {
+     "name": "12"
+    }, 
+    {
+     "name": "patient"
+    }, 
+    {
+     "name": "cancer"
+    }, 
+    {
+     "name": "al"
+    }, 
+    {
+     "name": "study"
+    }, 
+    {
+     "name": "disease"
+    }, 
+    {
+     "name": "analysis"
+    }, 
+    {
+     "name": "results"
+    }, 
+    {
+     "name": "tumor"
+    }, 
+    {
+     "name": "surgical"
+    }, 
+    {
+     "name": "clinical"
+    }, 
+    {
+     "name": "treatment"
+    }, 
+    {
+     "name": "table"
+    }, 
+    {
+     "name": "surgery"
+    }, 
+    {
+     "name": "data"
+    }, 
+    {
+     "name": "patients"
+    }, 
+    {
+     "name": "group"
+    }, 
+    {
+     "name": "breast"
+    }
+   ]
+  }, 
+  {
+   "name": "binding", 
+   "children": []
+  }, 
+  {
+   "name": "cells", 
+   "children": [
+    {
+     "name": "associated"
+    }, 
+    {
+     "name": "risk"
+    }, 
+    {
+     "name": "liver"
+    }, 
+    {
+     "name": "type"
+    }, 
+    {
+     "name": "study"
+    }, 
+    {
+     "name": "hepatic"
+    }, 
+    {
+     "name": "disease"
+    }, 
+    {
+     "name": "al"
+    }, 
+    {
+     "name": "tumor"
+    }, 
+    {
+     "name": "patients"
+    }, 
+    {
+     "name": "levels"
+    }, 
+    {
+     "name": "blood"
+    }, 
+    {
+     "name": "treatment"
+    }, 
+    {
+     "name": "artery"
+    }, 
+    {
+     "name": "diabetes"
+    }, 
+    {
+     "name": "expression"
+    }, 
+    {
+     "name": "vein"
+    }, 
+    {
+     "name": "fig"
+    }
+   ]
+  }, 
+  {
+   "name": "cell", 
+   "children": [
+    {
+     "name": "associated"
+    }, 
+    {
+     "name": "risk"
+    }, 
+    {
+     "name": "liver"
+    }, 
+    {
+     "name": "type"
+    }, 
+    {
+     "name": "study"
+    }, 
+    {
+     "name": "hepatic"
+    }, 
+    {
+     "name": "disease"
+    }, 
+    {
+     "name": "al"
+    }, 
+    {
+     "name": "tumor"
+    }, 
+    {
+     "name": "patients"
+    }, 
+    {
+     "name": "levels"
+    }, 
+    {
+     "name": "blood"
+    }, 
+    {
+     "name": "treatment"
+    }, 
+    {
+     "name": "artery"
+    }, 
+    {
+     "name": "diabetes"
+    }, 
+    {
+     "name": "expression"
+    }, 
+    {
+     "name": "vein"
+    }, 
+    {
+     "name": "fig"
+    }
+   ]
+  }, 
+  {
+   "name": "proteins", 
+   "children": []
+  }, 
+  {
+   "name": "high", 
+   "children": [
+    {
+     "name": "11"
+    }, 
+    {
+     "name": "surg"
+    }, 
+    {
+     "name": "12"
+    }, 
+    {
+     "name": "patient"
+    }, 
+    {
+     "name": "cancer"
+    }, 
+    {
+     "name": "al"
+    }, 
+    {
+     "name": "study"
+    }, 
+    {
+     "name": "disease"
+    }, 
+    {
+     "name": "analysis"
+    }, 
+    {
+     "name": "results"
+    }, 
+    {
+     "name": "tumor"
+    }, 
+    {
+     "name": "surgical"
+    }, 
+    {
+     "name": "clinical"
+    }, 
+    {
+     "name": "treatment"
+    }, 
+    {
+     "name": "table"
+    }, 
+    {
+     "name": "surgery"
+    }, 
+    {
+     "name": "data"
+    }, 
+    {
+     "name": "patients"
+    }, 
+    {
+     "name": "group"
+    }, 
+    {
+     "name": "breast"
+    }
+   ]
+  }, 
+  {
+   "name": "state", 
+   "children": [
+    {
+     "name": "usepackage"
+    }, 
+    {
+     "name": "begin"
+    }, 
+    {
+     "name": "document"
+    }, 
+    {
+     "name": "end"
+    }, 
+    {
+     "name": "wasysym"
+    }, 
+    {
+     "name": "amsbsy"
+    }, 
+    {
+     "name": "amsmath"
+    }, 
+    {
+     "name": "12pt"
+    }, 
+    {
+     "name": "amssymb"
+    }, 
+    {
+     "name": "documentclass"
+    }, 
+    {
+     "name": "oddsidemargin"
+    }, 
+    {
+     "name": "69pt"
+    }, 
+    {
+     "name": "minimal"
+    }, 
+    {
+     "name": "mathrsfs"
+    }, 
+    {
+     "name": "amsfonts"
+    }, 
+    {
+     "name": "model"
+    }, 
+    {
+     "name": "aligned"
+    }, 
+    {
+     "name": "setlength"
+    }, 
+    {
+     "name": "upgreek"
+    }, 
+    {
+     "name": "mathrm"
+    }
+   ]
+  }, 
+  {
+   "name": "chem", 
+   "children": []
+  }, 
+  {
+   "name": "cu", 
+   "children": []
+  }, 
+  {
+   "name": "new", 
+   "children": [
+    {
+     "name": "11"
+    }, 
+    {
+     "name": "surg"
+    }, 
+    {
+     "name": "12"
+    }, 
+    {
+     "name": "patient"
+    }, 
+    {
+     "name": "cancer"
+    }, 
+    {
+     "name": "al"
+    }, 
+    {
+     "name": "study"
+    }, 
+    {
+     "name": "disease"
+    }, 
+    {
+     "name": "analysis"
+    }, 
+    {
+     "name": "results"
+    }, 
+    {
+     "name": "tumor"
+    }, 
+    {
+     "name": "surgical"
+    }, 
+    {
+     "name": "clinical"
+    }, 
+    {
+     "name": "treatment"
+    }, 
+    {
+     "name": "table"
+    }, 
+    {
+     "name": "surgery"
+    }, 
+    {
+     "name": "data"
+    }, 
+    {
+     "name": "patients"
+    }, 
+    {
+     "name": "group"
+    }, 
+    {
+     "name": "breast"
+    }
+   ]
+  }, 
+  {
+   "name": "molecular", 
+   "children": []
+  }, 
+  {
+   "name": "using", 
+   "children": [
+    {
+     "name": "11"
+    }, 
+    {
+     "name": "surg"
+    }, 
+    {
+     "name": "12"
+    }, 
+    {
+     "name": "patient"
+    }, 
+    {
+     "name": "cancer"
+    }, 
+    {
+     "name": "al"
+    }, 
+    {
+     "name": "study"
+    }, 
+    {
+     "name": "disease"
+    }, 
+    {
+     "name": "analysis"
+    }, 
+    {
+     "name": "results"
+    }, 
+    {
+     "name": "tumor"
+    }, 
+    {
+     "name": "surgical"
+    }, 
+    {
+     "name": "clinical"
+    }, 
+    {
+     "name": "treatment"
+    }, 
+    {
+     "name": "table"
+    }, 
+    {
+     "name": "surgery"
+    }, 
+    {
+     "name": "data"
+    }, 
+    {
+     "name": "patients"
+    }, 
+    {
+     "name": "group"
+    }, 
+    {
+     "name": "breast"
+    }
+   ]
+  }, 
+  {
+   "name": "protein", 
+   "children": []
+  }, 
+  {
+   "name": "chemistry", 
+   "children": []
+  }, 
+  {
+   "name": "energy", 
+   "children": []
+  }, 
+  {
+   "name": "structure", 
+   "children": []
+  }
+ ]
+}

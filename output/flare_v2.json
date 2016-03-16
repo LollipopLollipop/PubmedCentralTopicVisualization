@@ -1,0 +1,85 @@
+{
+ "name": "chemical", 
+ "children": [
+  {
+   "name": "usepackage", 
+   "children": []
+  }, 
+  {
+   "name": "group", 
+   "children": []
+  }, 
+  {
+   "name": "treatment", 
+   "children": []
+  }, 
+  {
+   "name": "cancer", 
+   "children": []
+  }, 
+  {
+   "name": "surg", 
+   "children": []
+  }, 
+  {
+   "name": "study", 
+   "children": []
+  }, 
+  {
+   "name": "infections", 
+   "children": []
+  }, 
+  {
+   "name": "disease", 
+   "children": []
+  }, 
+  {
+   "name": "al", 
+   "children": []
+  }, 
+  {
+   "name": "tumor", 
+   "children": []
+  }, 
+  {
+   "name": "surgical", 
+   "children": []
+  }, 
+  {
+   "name": "health", 
+   "children": []
+  }, 
+  {
+   "name": "saudi", 
+   "children": []
+  }, 
+  {
+   "name": "patients", 
+   "children": []
+  }, 
+  {
+   "name": "participants", 
+   "children": []
+  }, 
+  {
+   "name": "patient", 
+   "children": []
+  }, 
+  {
+   "name": "surgery", 
+   "children": []
+  }, 
+  {
+   "name": "data", 
+   "children": []
+  }, 
+  {
+   "name": "medical", 
+   "children": []
+  }, 
+  {
+   "name": "breast", 
+   "children": []
+  }
+ ]
+}

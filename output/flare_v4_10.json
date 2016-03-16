@@ -1,0 +1,1185 @@
+{
+ "name": "chemical", 
+ "children": [
+  {
+   "name": "resection", 
+   "children": [
+    {
+     "name": "hepatocellular"
+    }, 
+    {
+     "name": "radiofrequency"
+    }, 
+    {
+     "name": "vein"
+    }, 
+    {
+     "name": "hepatectomy"
+    }, 
+    {
+     "name": "portal"
+    }, 
+    {
+     "name": "hcc"
+    }, 
+    {
+     "name": "rfa"
+    }, 
+    {
+     "name": "transplantation"
+    }, 
+    {
+     "name": "ldlt"
+    }, 
+    {
+     "name": "liver"
+    }, 
+    {
+     "name": "colorectal"
+    }, 
+    {
+     "name": "hepatic"
+    }, 
+    {
+     "name": "metastases"
+    }, 
+    {
+     "name": "donor"
+    }, 
+    {
+     "name": "ablation"
+    }, 
+    {
+     "name": "crlm"
+    }
+   ]
+  }, 
+  {
+   "name": "gastric", 
+   "children": [
+    {
+     "name": "thyroid"
+    }, 
+    {
+     "name": "cln"
+    }, 
+    {
+     "name": "stg"
+    }, 
+    {
+     "name": "iodine"
+    }, 
+    {
+     "name": "neck"
+    }, 
+    {
+     "name": "goiter"
+    }, 
+    {
+     "name": "lobe"
+    }, 
+    {
+     "name": "ptc"
+    }, 
+    {
+     "name": "thyroidectomy"
+    }, 
+    {
+     "name": "metastasis"
+    }, 
+    {
+     "name": "tsh"
+    }, 
+    {
+     "name": "rai"
+    }, 
+    {
+     "name": "dissection"
+    }, 
+    {
+     "name": "follicular"
+    }, 
+    {
+     "name": "cnd"
+    }, 
+    {
+     "name": "nodule"
+    }, 
+    {
+     "name": "carcinoma"
+    }, 
+    {
+     "name": "parathyroid"
+    }, 
+    {
+     "name": "tg"
+    }, 
+    {
+     "name": "papillary"
+    }
+   ]
+  }, 
+  {
+   "name": "group", 
+   "children": [
+    {
+     "name": "control"
+    }, 
+    {
+     "name": "fasting"
+    }, 
+    {
+     "name": "diabetic"
+    }, 
+    {
+     "name": "prevalence"
+    }, 
+    {
+     "name": "bmi"
+    }, 
+    {
+     "name": "glycemic"
+    }, 
+    {
+     "name": "diabetes"
+    }, 
+    {
+     "name": "mellitus"
+    }, 
+    {
+     "name": "hba1c"
+    }, 
+    {
+     "name": "subjects"
+    }, 
+    {
+     "name": "blood"
+    }, 
+    {
+     "name": "insulin"
+    }, 
+    {
+     "name": "hypoglycemia"
+    }, 
+    {
+     "name": "obesity"
+    }, 
+    {
+     "name": "mmol"
+    }, 
+    {
+     "name": "type"
+    }, 
+    {
+     "name": "glucose"
+    }, 
+    {
+     "name": "saudi"
+    }
+   ]
+  }, 
+  {
+   "name": "cancer", 
+   "children": [
+    {
+     "name": "brca1"
+    }, 
+    {
+     "name": "conserving"
+    }, 
+    {
+     "name": "risk"
+    }, 
+    {
+     "name": "margins"
+    }, 
+    {
+     "name": "tamoxifen"
+    }, 
+    {
+     "name": "axillary"
+    }, 
+    {
+     "name": "lumpectomy"
+    }, 
+    {
+     "name": "oncology"
+    }, 
+    {
+     "name": "nipple"
+    }, 
+    {
+     "name": "breast"
+    }, 
+    {
+     "name": "her2"
+    }, 
+    {
+     "name": "bct"
+    }, 
+    {
+     "name": "carcinoma"
+    }, 
+    {
+     "name": "oncol"
+    }, 
+    {
+     "name": "women"
+    }, 
+    {
+     "name": "mastectomy"
+    }, 
+    {
+     "name": "mammography"
+    }, 
+    {
+     "name": "ductal"
+    }
+   ]
+  }, 
+  {
+   "name": "surg", 
+   "children": [
+    {
+     "name": "hepatocellular"
+    }, 
+    {
+     "name": "radiofrequency"
+    }, 
+    {
+     "name": "vein"
+    }, 
+    {
+     "name": "hepatectomy"
+    }, 
+    {
+     "name": "portal"
+    }, 
+    {
+     "name": "hcc"
+    }, 
+    {
+     "name": "rfa"
+    }, 
+    {
+     "name": "transplantation"
+    }, 
+    {
+     "name": "ldlt"
+    }, 
+    {
+     "name": "liver"
+    }, 
+    {
+     "name": "colorectal"
+    }, 
+    {
+     "name": "hepatic"
+    }, 
+    {
+     "name": "metastases"
+    }, 
+    {
+     "name": "donor"
+    }, 
+    {
+     "name": "ablation"
+    }, 
+    {
+     "name": "crlm"
+    }
+   ]
+  }, 
+  {
+   "name": "postoperative", 
+   "children": [
+    {
+     "name": "arterial"
+    }, 
+    {
+     "name": "repair"
+    }, 
+    {
+     "name": "angiography"
+    }, 
+    {
+     "name": "right"
+    }, 
+    {
+     "name": "aortic"
+    }, 
+    {
+     "name": "renal"
+    }, 
+    {
+     "name": "graft"
+    }, 
+    {
+     "name": "stent"
+    }, 
+    {
+     "name": "artery"
+    }, 
+    {
+     "name": "coronary"
+    }, 
+    {
+     "name": "arteries"
+    }, 
+    {
+     "name": "portal"
+    }, 
+    {
+     "name": "bypass"
+    }, 
+    {
+     "name": "iliac"
+    }, 
+    {
+     "name": "aneurysm"
+    }, 
+    {
+     "name": "grafts"
+    }, 
+    {
+     "name": "embolization"
+    }, 
+    {
+     "name": "endovascular"
+    }, 
+    {
+     "name": "vein"
+    }, 
+    {
+     "name": "left"
+    }
+   ]
+  }, 
+  {
+   "name": "study", 
+   "children": [
+    {
+     "name": "information"
+    }, 
+    {
+     "name": "iran"
+    }, 
+    {
+     "name": "scientific"
+    }, 
+    {
+     "name": "students"
+    }, 
+    {
+     "name": "electronic"
+    }, 
+    {
+     "name": "medical"
+    }, 
+    {
+     "name": "data"
+    }, 
+    {
+     "name": "research"
+    }, 
+    {
+     "name": "sciences"
+    }, 
+    {
+     "name": "health"
+    }, 
+    {
+     "name": "systems"
+    }, 
+    {
+     "name": "learning"
+    }, 
+    {
+     "name": "internet"
+    }, 
+    {
+     "name": "technology"
+    }, 
+    {
+     "name": "education"
+    }, 
+    {
+     "name": "quality"
+    }, 
+    {
+     "name": "journal"
+    }, 
+    {
+     "name": "care"
+    }, 
+    {
+     "name": "journals"
+    }
+   ]
+  }, 
+  {
+   "name": "rectal", 
+   "children": [
+    {
+     "name": "thyroid"
+    }, 
+    {
+     "name": "cln"
+    }, 
+    {
+     "name": "stg"
+    }, 
+    {
+     "name": "iodine"
+    }, 
+    {
+     "name": "neck"
+    }, 
+    {
+     "name": "goiter"
+    }, 
+    {
+     "name": "lobe"
+    }, 
+    {
+     "name": "ptc"
+    }, 
+    {
+     "name": "thyroidectomy"
+    }, 
+    {
+     "name": "metastasis"
+    }, 
+    {
+     "name": "tsh"
+    }, 
+    {
+     "name": "rai"
+    }, 
+    {
+     "name": "dissection"
+    }, 
+    {
+     "name": "follicular"
+    }, 
+    {
+     "name": "cnd"
+    }, 
+    {
+     "name": "nodule"
+    }, 
+    {
+     "name": "carcinoma"
+    }, 
+    {
+     "name": "parathyroid"
+    }, 
+    {
+     "name": "tg"
+    }, 
+    {
+     "name": "papillary"
+    }
+   ]
+  }, 
+  {
+   "name": "disease", 
+   "children": [
+    {
+     "name": "control"
+    }, 
+    {
+     "name": "fasting"
+    }, 
+    {
+     "name": "diabetic"
+    }, 
+    {
+     "name": "prevalence"
+    }, 
+    {
+     "name": "bmi"
+    }, 
+    {
+     "name": "glycemic"
+    }, 
+    {
+     "name": "diabetes"
+    }, 
+    {
+     "name": "mellitus"
+    }, 
+    {
+     "name": "hba1c"
+    }, 
+    {
+     "name": "subjects"
+    }, 
+    {
+     "name": "blood"
+    }, 
+    {
+     "name": "insulin"
+    }, 
+    {
+     "name": "hypoglycemia"
+    }, 
+    {
+     "name": "obesity"
+    }, 
+    {
+     "name": "mmol"
+    }, 
+    {
+     "name": "type"
+    }, 
+    {
+     "name": "glucose"
+    }, 
+    {
+     "name": "saudi"
+    }
+   ]
+  }, 
+  {
+   "name": "laparoscopic", 
+   "children": [
+    {
+     "name": "hepatocellular"
+    }, 
+    {
+     "name": "radiofrequency"
+    }, 
+    {
+     "name": "vein"
+    }, 
+    {
+     "name": "hepatectomy"
+    }, 
+    {
+     "name": "portal"
+    }, 
+    {
+     "name": "hcc"
+    }, 
+    {
+     "name": "rfa"
+    }, 
+    {
+     "name": "transplantation"
+    }, 
+    {
+     "name": "ldlt"
+    }, 
+    {
+     "name": "liver"
+    }, 
+    {
+     "name": "colorectal"
+    }, 
+    {
+     "name": "hepatic"
+    }, 
+    {
+     "name": "metastases"
+    }, 
+    {
+     "name": "donor"
+    }, 
+    {
+     "name": "ablation"
+    }, 
+    {
+     "name": "crlm"
+    }
+   ]
+  }, 
+  {
+   "name": "recurrence", 
+   "children": [
+    {
+     "name": "hepatocellular"
+    }, 
+    {
+     "name": "radiofrequency"
+    }, 
+    {
+     "name": "vein"
+    }, 
+    {
+     "name": "hepatectomy"
+    }, 
+    {
+     "name": "portal"
+    }, 
+    {
+     "name": "hcc"
+    }, 
+    {
+     "name": "rfa"
+    }, 
+    {
+     "name": "transplantation"
+    }, 
+    {
+     "name": "ldlt"
+    }, 
+    {
+     "name": "liver"
+    }, 
+    {
+     "name": "colorectal"
+    }, 
+    {
+     "name": "hepatic"
+    }, 
+    {
+     "name": "metastases"
+    }, 
+    {
+     "name": "donor"
+    }, 
+    {
+     "name": "ablation"
+    }, 
+    {
+     "name": "crlm"
+    }
+   ]
+  }, 
+  {
+   "name": "tumor", 
+   "children": [
+    {
+     "name": "hepatocellular"
+    }, 
+    {
+     "name": "radiofrequency"
+    }, 
+    {
+     "name": "vein"
+    }, 
+    {
+     "name": "hepatectomy"
+    }, 
+    {
+     "name": "portal"
+    }, 
+    {
+     "name": "hcc"
+    }, 
+    {
+     "name": "rfa"
+    }, 
+    {
+     "name": "transplantation"
+    }, 
+    {
+     "name": "ldlt"
+    }, 
+    {
+     "name": "liver"
+    }, 
+    {
+     "name": "colorectal"
+    }, 
+    {
+     "name": "hepatic"
+    }, 
+    {
+     "name": "metastases"
+    }, 
+    {
+     "name": "donor"
+    }, 
+    {
+     "name": "ablation"
+    }, 
+    {
+     "name": "crlm"
+    }
+   ]
+  }, 
+  {
+   "name": "surgical", 
+   "children": [
+    {
+     "name": "brca1"
+    }, 
+    {
+     "name": "conserving"
+    }, 
+    {
+     "name": "risk"
+    }, 
+    {
+     "name": "margins"
+    }, 
+    {
+     "name": "tamoxifen"
+    }, 
+    {
+     "name": "axillary"
+    }, 
+    {
+     "name": "lumpectomy"
+    }, 
+    {
+     "name": "oncology"
+    }, 
+    {
+     "name": "nipple"
+    }, 
+    {
+     "name": "breast"
+    }, 
+    {
+     "name": "her2"
+    }, 
+    {
+     "name": "bct"
+    }, 
+    {
+     "name": "carcinoma"
+    }, 
+    {
+     "name": "oncol"
+    }, 
+    {
+     "name": "women"
+    }, 
+    {
+     "name": "mastectomy"
+    }, 
+    {
+     "name": "mammography"
+    }, 
+    {
+     "name": "ductal"
+    }
+   ]
+  }, 
+  {
+   "name": "patient", 
+   "children": [
+    {
+     "name": "information"
+    }, 
+    {
+     "name": "iran"
+    }, 
+    {
+     "name": "scientific"
+    }, 
+    {
+     "name": "students"
+    }, 
+    {
+     "name": "electronic"
+    }, 
+    {
+     "name": "medical"
+    }, 
+    {
+     "name": "data"
+    }, 
+    {
+     "name": "research"
+    }, 
+    {
+     "name": "sciences"
+    }, 
+    {
+     "name": "health"
+    }, 
+    {
+     "name": "systems"
+    }, 
+    {
+     "name": "learning"
+    }, 
+    {
+     "name": "internet"
+    }, 
+    {
+     "name": "technology"
+    }, 
+    {
+     "name": "education"
+    }, 
+    {
+     "name": "quality"
+    }, 
+    {
+     "name": "journal"
+    }, 
+    {
+     "name": "care"
+    }, 
+    {
+     "name": "journals"
+    }
+   ]
+  }, 
+  {
+   "name": "treatment", 
+   "children": [
+    {
+     "name": "arterial"
+    }, 
+    {
+     "name": "repair"
+    }, 
+    {
+     "name": "angiography"
+    }, 
+    {
+     "name": "right"
+    }, 
+    {
+     "name": "aortic"
+    }, 
+    {
+     "name": "renal"
+    }, 
+    {
+     "name": "graft"
+    }, 
+    {
+     "name": "stent"
+    }, 
+    {
+     "name": "artery"
+    }, 
+    {
+     "name": "coronary"
+    }, 
+    {
+     "name": "arteries"
+    }, 
+    {
+     "name": "portal"
+    }, 
+    {
+     "name": "bypass"
+    }, 
+    {
+     "name": "iliac"
+    }, 
+    {
+     "name": "aneurysm"
+    }, 
+    {
+     "name": "grafts"
+    }, 
+    {
+     "name": "embolization"
+    }, 
+    {
+     "name": "endovascular"
+    }, 
+    {
+     "name": "vein"
+    }, 
+    {
+     "name": "left"
+    }
+   ]
+  }, 
+  {
+   "name": "patients", 
+   "children": [
+    {
+     "name": "node"
+    }, 
+    {
+     "name": "axillary"
+    }, 
+    {
+     "name": "melanoma"
+    }, 
+    {
+     "name": "neck"
+    }, 
+    {
+     "name": "lymph"
+    }, 
+    {
+     "name": "nodal"
+    }, 
+    {
+     "name": "dissection"
+    }, 
+    {
+     "name": "biopsy"
+    }, 
+    {
+     "name": "mapping"
+    }, 
+    {
+     "name": "sentinel"
+    }, 
+    {
+     "name": "sln"
+    }, 
+    {
+     "name": "slnb"
+    }, 
+    {
+     "name": "positive"
+    }, 
+    {
+     "name": "metastases"
+    }, 
+    {
+     "name": "slns"
+    }, 
+    {
+     "name": "nodes"
+    }, 
+    {
+     "name": "oncol"
+    }, 
+    {
+     "name": "lymphatic"
+    }, 
+    {
+     "name": "sn"
+    }
+   ]
+  }, 
+  {
+   "name": "chemotherapy", 
+   "children": [
+    {
+     "name": "hepatocellular"
+    }, 
+    {
+     "name": "radiofrequency"
+    }, 
+    {
+     "name": "vein"
+    }, 
+    {
+     "name": "hepatectomy"
+    }, 
+    {
+     "name": "portal"
+    }, 
+    {
+     "name": "hcc"
+    }, 
+    {
+     "name": "rfa"
+    }, 
+    {
+     "name": "transplantation"
+    }, 
+    {
+     "name": "ldlt"
+    }, 
+    {
+     "name": "liver"
+    }, 
+    {
+     "name": "colorectal"
+    }, 
+    {
+     "name": "hepatic"
+    }, 
+    {
+     "name": "metastases"
+    }, 
+    {
+     "name": "donor"
+    }, 
+    {
+     "name": "ablation"
+    }, 
+    {
+     "name": "crlm"
+    }
+   ]
+  }, 
+  {
+   "name": "surgery", 
+   "children": [
+    {
+     "name": "arterial"
+    }, 
+    {
+     "name": "repair"
+    }, 
+    {
+     "name": "angiography"
+    }, 
+    {
+     "name": "right"
+    }, 
+    {
+     "name": "aortic"
+    }, 
+    {
+     "name": "renal"
+    }, 
+    {
+     "name": "graft"
+    }, 
+    {
+     "name": "stent"
+    }, 
+    {
+     "name": "artery"
+    }, 
+    {
+     "name": "coronary"
+    }, 
+    {
+     "name": "arteries"
+    }, 
+    {
+     "name": "portal"
+    }, 
+    {
+     "name": "bypass"
+    }, 
+    {
+     "name": "iliac"
+    }, 
+    {
+     "name": "aneurysm"
+    }, 
+    {
+     "name": "grafts"
+    }, 
+    {
+     "name": "embolization"
+    }, 
+    {
+     "name": "endovascular"
+    }, 
+    {
+     "name": "vein"
+    }, 
+    {
+     "name": "left"
+    }
+   ]
+  }, 
+  {
+   "name": "survival", 
+   "children": [
+    {
+     "name": "hepatocellular"
+    }, 
+    {
+     "name": "radiofrequency"
+    }, 
+    {
+     "name": "vein"
+    }, 
+    {
+     "name": "hepatectomy"
+    }, 
+    {
+     "name": "portal"
+    }, 
+    {
+     "name": "hcc"
+    }, 
+    {
+     "name": "rfa"
+    }, 
+    {
+     "name": "transplantation"
+    }, 
+    {
+     "name": "ldlt"
+    }, 
+    {
+     "name": "liver"
+    }, 
+    {
+     "name": "colorectal"
+    }, 
+    {
+     "name": "hepatic"
+    }, 
+    {
+     "name": "metastases"
+    }, 
+    {
+     "name": "donor"
+    }, 
+    {
+     "name": "ablation"
+    }, 
+    {
+     "name": "crlm"
+    }
+   ]
+  }, 
+  {
+   "name": "stage", 
+   "children": [
+    {
+     "name": "node"
+    }, 
+    {
+     "name": "axillary"
+    }, 
+    {
+     "name": "melanoma"
+    }, 
+    {
+     "name": "neck"
+    }, 
+    {
+     "name": "lymph"
+    }, 
+    {
+     "name": "nodal"
+    }, 
+    {
+     "name": "dissection"
+    }, 
+    {
+     "name": "biopsy"
+    }, 
+    {
+     "name": "mapping"
+    }, 
+    {
+     "name": "sentinel"
+    }, 
+    {
+     "name": "sln"
+    }, 
+    {
+     "name": "slnb"
+    }, 
+    {
+     "name": "positive"
+    }, 
+    {
+     "name": "metastases"
+    }, 
+    {
+     "name": "slns"
+    }, 
+    {
+     "name": "nodes"
+    }, 
+    {
+     "name": "oncol"
+    }, 
+    {
+     "name": "lymphatic"
+    }, 
+    {
+     "name": "sn"
+    }
+   ]
+  }
+ ]
+}
